@@ -1,0 +1,108 @@
+{
+  "landingPage": {
+    "title": "👋 I'm Vako Janikashvili",
+    "bio": "Middle Backend C# Developer with 3+ years of experience building .NET-based backend systems and REST APIs, and collaborating with frontend developers to deliver integrated solutions. Strong background in clean architecture, distributed systems, relational databases, secure data handling, asynchronous messaging, and production deployment in load-balanced environments.",
+    "visitBtn": "About Me",
+    "or": "or",
+    "getCvBtn": "Get the CV"
+  },
+  "navbar": {
+    "home": "Home",
+    "experience": "Experience",
+    "knowledge": "Skills",
+    "contact": "Contact"
+  },
+  "experience": {
+    "backendPayunicard": {
+      "title": "Back-End Developer @ Payunicard",
+      "description": "Developed .NET microservices (EF Core, Dapper, MediatR, RabbitMQ) and designed REST APIs utilizing MS SQL stored procedures and Oracle. Deployed and maintained services on IIS and Linux clusters behind HAProxy. Monitored, debugged, and troubleshot production systems using Grafana and Loki; participated in code reviews.",
+      "time": "Aug 2024 - Present"
+    },
+    "backendRevenue": {
+      "title": "Back-End Developer @ Revenue Service",
+      "description": "Built ASP.NET Core (.NET 6+) backend services using layered architecture. Implemented REST APIs and RabbitMQ-based async communication. Worked with MS SQL and CI/CD pipelines in Azure DevOps.",
+      "time": "Apr 2023 - Aug 2024"
+    },
+    "fullstackBitoid": {
+      "title": "Full-Stack Developer @ Bitoid Technologies",
+      "description": "Developed full-stack web apps with React, TypeScript, PHP/Drupal, and MySQL on Linux.",
+      "time": "Apr 2022 - Apr 2023"
+    },
+    "taxController": {
+      "title": "Tax Controller @ Revenue Service",
+      "description": "Compliance monitoring, audits, and reporting.",
+      "time": "Mar 2015 - Mar 2023"
+    },
+    "mbaIlia": {
+      "title": "MBA, Banking and Finance @ Ilia State University",
+      "description": "Master's degree in Banking and Finance, developing a solid foundation in business operations and financial management.",
+      "time": "2015 - 2017"
+    },
+    "bachelorIlia": {
+      "title": "Bachelor’s in Business, Management & Marketing @ Ilia State University",
+      "description": "Bachelor's degree focusing on Business, Management, and Marketing principles.",
+      "time": "2010 - 2014"
+    }
+  },
+  "skills": {
+    "langFrameworks": "Languages & Frameworks",
+    "databases": "Databases",
+    "architecture": "Architecture",
+    "toolsInfra": "Tools & Infrastructure",
+    "frontend": "Front-End",
+    "csharp": "C#",
+    "dotnet": ".NET",
+    "aspnetcore": "ASP.NET Core",
+    "sqlserver": "MS SQL",
+    "oracle": "Oracle DB",
+    "mysql": "MySQL",
+    "react": "React",
+    "angular": "Angular",
+    "typescript": "TypeScript",
+    "javascript": "JavaScript",
+    "rabbitmq": "RabbitMQ",
+    "azuredevops": "Azure DevOps",
+    "iis": "IIS Server",
+    "linux": "Linux",
+    "grafana": "Grafana",
+    "prometheus": "Prometheus",
+    "loki": "Loki",
+    "dapper": "Dapper",
+    "efcore": "EF Core",
+    "mediatr": "MediatR",
+    "cqrs": "CQRS",
+    "microservices": "Microservices",
+    "restapis": "REST APIs",
+    "tailwind": "Tailwind CSS"
+  },
+  "contact": {
+    "formTitle": "get in touch",
+    "nameForm": "Name",
+    "emailForm": "Email",
+    "messageForm": "Message",
+    "submitBtn": "Submit",
+    "okBtn": "Message sent",
+    "errorBtn": "Something went wrong",
+    "contactTitle": "contact info",
+    "location": "Tbilisi, Georgia",
+    "rights": "© Vako Janikashvili. All rights reserved"
+  },
+  "meta": {
+    "home": {
+      "title": "Vako Janikashvili – Middle Backend C# Developer",
+      "description": "Portfolio of Vako Janikashvili, a Middle Backend C# Developer skilled in .NET, REST APIs, and microservices."
+    },
+    "experience": {
+      "title": "Work Experience – .NET Backend | Vako",
+      "description": "Explore Vako's work experience and education in software development."
+    },
+    "skills": {
+      "title": "Technical Skills – Tech Stack | Vako",
+      "description": "Programming languages, tools, and technologies Vako uses."
+    },
+    "contact": {
+      "title": "Contact Me | Vako",
+      "description": "Get in touch with Vako."
+    }
+  }
+}

@@ -1,0 +1,7 @@
+export const LANG_FRAMEWORKS = 'langFrameworks'
+export const DATABASES = 'databases'
+export const ARCHITECTURE = 'architecture'
+export const TOOLS_INFRA = 'toolsInfra'
+export const FRONTEND = 'frontend'
+export const SKILLS_T_NODE = 'skills'
+export const SKILL_SECTION = 'skills'

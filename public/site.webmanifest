@@ -1,0 +1,20 @@
+{
+  "name": "Vako Janikashvili Portfolio",
+  "short_name": "Vako",
+  "start_url": "/en/",
+  "display": "standalone",
+  "description": "Explore the portfolio of Vako Janikashvili, a Middle Backend C# Developer.",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

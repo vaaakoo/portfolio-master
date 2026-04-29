@@ -1,0 +1,8 @@
+export const EXPERIENCE_T_NODE = 'experience'
+export const BACKEND_PAYUNICARD = 'backendPayunicard'
+export const BACKEND_REVENUE = 'backendRevenue'
+export const FULLSTACK_BITOID = 'fullstackBitoid'
+export const TAX_CONTROLLER = 'taxController'
+export const MBA_ILIA = 'mbaIlia'
+export const BACHELOR_ILIA = 'bachelorIlia'
+export const EXPERIENCE_SECTION = 'experience'

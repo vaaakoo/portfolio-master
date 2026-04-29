@@ -1,0 +1,108 @@
+{
+  "landingPage": {
+    "title": "👋 მე ვარ ვაკო ჯანიკაშვილი",
+    "bio": "Middle Backend C# დეველოპერი 3+ წლიანი გამოცდილებით .NET-ზე დაფუძნებული ბექენდ სისტემების და REST API-ების შექმნაში. მყარი გამოცდილება სუფთა არქიტექტურაში (Clean Architecture), განაწილებულ სისტემებში, რელაციურ მონაცემთა ბაზებში, მონაცემთა უსაფრთხო დამუშავებასა და ასინქრონულ კომუნიკაციაში.",
+    "visitBtn": "ჩემს შესახებ",
+    "or": "ან",
+    "getCvBtn": "CV-ის ჩამოტვირთვა"
+  },
+  "navbar": {
+    "home": "მთავარი",
+    "experience": "გამოცდილება",
+    "knowledge": "უნარები",
+    "contact": "კონტაქტი"
+  },
+  "experience": {
+    "backendPayunicard": {
+      "title": "Back-End დეველოპერი @ Payunicard",
+      "description": "შევიმუშავე .NET მიკროსერვისები (EF Core, Dapper, MediatR, RabbitMQ) და დავაპროექტე REST API-ები MS SQL-ისა და Oracle-ის გამოყენებით. განვათავსე და ვმართავდი სერვისებს IIS-სა და Linux-ის კლასტერებზე HAProxy-ის უკან. ვაკვირდებოდი და ვასწორებდი პრობლემებს Grafana-სა და Loki-ის გამოყენებით.",
+      "time": "აგვისტო 2024 - დღემდე"
+    },
+    "backendRevenue": {
+      "title": "Back-End დეველოპერი @ Revenue Service",
+      "description": "შევქმენი ASP.NET Core (.NET 6+) ბექენდ სერვისები ფენოვანი (layered) არქიტექტურის გამოყენებით. განვახორციელე REST API-ები და RabbitMQ-ზე დაფუძნებული ასინქრონული კომუნიკაცია. ვმუშაობდი MS SQL-თან და CI/CD პროცესებთან Azure DevOps-ში.",
+      "time": "აპრილი 2023 - აგვისტო 2024"
+    },
+    "fullstackBitoid": {
+      "title": "Full-Stack დეველოპერი @ Bitoid Technologies",
+      "description": "შევქმენი full-stack ვებ აპლიკაციები React, TypeScript, PHP/Drupal და MySQL ტექნოლოგიებით Linux-ზე.",
+      "time": "აპრილი 2022 - აპრილი 2023"
+    },
+    "taxController": {
+      "title": "საგადასახადო კონტროლიორი @ Revenue Service",
+      "description": "მონიტორინგი, აუდიტი და რეპორტინგი.",
+      "time": "მარტი 2015 - მარტი 2023"
+    },
+    "mbaIlia": {
+      "title": "MBA საბანკო და საფინანსო საქმეში @ ილიას სახელმწიფო უნივერსიტეტი",
+      "description": "მაგისტრის ხარისხი საბანკო და საფინანსო საქმეში.",
+      "time": "2015 - 2017"
+    },
+    "bachelorIlia": {
+      "title": "ბიზნესის, მენეჯმენტისა და მარკეტინგის ბაკალავრი @ ილიას სახელმწიფო უნივერსიტეტი",
+      "description": "ბაკალავრის ხარისხი ბიზნესის, მენეჯმენტისა და მარკეტინგის მიმართულებით.",
+      "time": "2010 - 2014"
+    }
+  },
+  "skills": {
+    "langFrameworks": "ენები და ფრეიმვორკები",
+    "databases": "მონაცემთა ბაზები",
+    "architecture": "არქიტექტურა",
+    "toolsInfra": "ხელსაწყოები და ინფრასტრუქტურა",
+    "frontend": "ფრონტ-ენდი",
+    "csharp": "C#",
+    "dotnet": ".NET",
+    "aspnetcore": "ASP.NET Core",
+    "sqlserver": "MS SQL",
+    "oracle": "Oracle DB",
+    "mysql": "MySQL",
+    "react": "React",
+    "angular": "Angular",
+    "typescript": "TypeScript",
+    "javascript": "JavaScript",
+    "rabbitmq": "RabbitMQ",
+    "azuredevops": "Azure DevOps",
+    "iis": "IIS Server",
+    "linux": "Linux",
+    "grafana": "Grafana",
+    "prometheus": "Prometheus",
+    "loki": "Loki",
+    "dapper": "Dapper",
+    "efcore": "EF Core",
+    "mediatr": "MediatR",
+    "cqrs": "CQRS",
+    "microservices": "მიკროსერვისები",
+    "restapis": "REST API-ები",
+    "tailwind": "Tailwind CSS"
+  },
+  "contact": {
+    "formTitle": "დამიკავშირდით",
+    "nameForm": "სახელი",
+    "emailForm": "ელ-ფოსტა",
+    "messageForm": "შეტყობინება",
+    "submitBtn": "გაგზავნა",
+    "okBtn": "შეტყობინება გაიგზავნა",
+    "errorBtn": "დაფიქსირდა შეცდომა",
+    "contactTitle": "საკონტაქტო ინფორმაცია",
+    "location": "თბილისი, საქართველო",
+    "rights": "© ვაკო ჯანიკაშვილი. ყველა უფლება დაცულია"
+  },
+  "meta": {
+    "home": {
+      "title": "ვაკო ჯანიკაშვილი – Middle Backend C# დეველოპერი",
+      "description": "ვაკო ჯანიკაშვილის პორტფოლიო, .NET, REST API-ების და მიკროსერვისების დეველოპერი."
+    },
+    "experience": {
+      "title": "სამუშაო გამოცდილება – .NET Backend | ვაკო",
+      "description": "გაეცანით ვაკოს სამუშაო გამოცდილებას და განათლებას პროგრამული უზრუნველყოფის მიმართულებით."
+    },
+    "skills": {
+      "title": "ტექნიკური უნარები – ტექნოლოგიები | ვაკო",
+      "description": "პროგრამირების ენები, ხელსაწყოები და ტექნოლოგიები."
+    },
+    "contact": {
+      "title": "კონტაქტი | ვაკო",
+      "description": "დამიკავშირდით."
+    }
+  }
+}
