@@ -1,16 +1,13 @@
 import { NextResponse } from 'next/server'
 
-export const runtime = 'edge'
-
 export async function GET() {
-    const baseUrl = 'https://tvoosai.dev' // ✅ senza www
-    const lastMod = process.env.NEXT_PUBLIC_LASTMOD || '2025-01-01'
+    const baseUrl = 'https://vjanikashvili.dev'
+    const lastMod = process.env.NEXT_PUBLIC_LASTMOD || '2026-04-29'
 
     const routes = [
         { path: '', priority: 1.0 },     // homepage
-        { path: 'it', priority: 0.9 },
         { path: 'en', priority: 0.9 },
-        { path: 'de', priority: 0.9 }
+        { path: 'ka', priority: 0.9 }
     ]
 
     const xml = `<?xml version="1.0" encoding="UTF-8"?>

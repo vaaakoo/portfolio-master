@@ -1,11 +1,9 @@
 import { NextResponse } from 'next/server'
 
-export const runtime = 'edge'
-
 export function GET() {
     const body = `User-agent: *
 Allow: /
-Sitemap: https://tvoosai.dev/sitemap.xml`
+Sitemap: https://vjanikashvili.dev/sitemap.xml`
 
     return new NextResponse(body, {
         headers: {
